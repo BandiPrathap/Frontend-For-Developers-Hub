@@ -1,0 +1,40 @@
+.landing-page {
+    background: url('https://csengineermag.com/wp-content/uploads/2020/04/AdobeStock_317396428.jpeg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .jumbotron {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for readability */
+    padding: 2rem;
+    border-radius: 10px;
+  }
+  
+  .jumbotron .container {
+    text-align: center;
+  }
+  
+  .display-4 {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  .lead {
+    font-size: 1.25rem;
+    margin-top: 1rem;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 2rem auto;
+  }
+  
+  p {
+    font-size: 1rem;
+  }
+  
